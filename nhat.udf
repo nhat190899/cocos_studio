@@ -28,16 +28,5 @@
         <LastRunType Value="Windows" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="tower_cannon.csd" />
-          <FilePathData Path="EndgameScene.csd" />
-          <FilePathData Path="radius.csd" />
-          <FilePathData Path="tower_boomerang.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="radius.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

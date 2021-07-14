@@ -6207,15 +6207,9 @@
             <Image Name="ui_transparent_square.png" />
           </Folder>
         </Folder>
-        <Folder Name="node" />
-        <Folder Name="tower">
-          <Folder Name="cannon">
-            <Project Name="TowerCannonIdle0000.csd" Type="Node" />
-          </Folder>
-          <Folder Name="icegun" />
-        </Folder>
         <Project Name="EndgameScene.csd" Type="Layer" />
-        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="radiusOpponent.csd" Type="Node" />
+        <Project Name="radiusPlayer.csd" Type="Node" />
         <Project Name="tower_attack_speed.csd" Type="Node" />
         <Project Name="tower_boomerang.csd" Type="Node" />
         <Project Name="tower_cannon.csd" Type="Node" />
@@ -6223,7 +6217,6 @@
         <Project Name="tower_ice_gun.csd" Type="Node" />
         <Project Name="tower_oil_gun.csd" Type="Node" />
         <Project Name="tower_wizard.csd" Type="Node" />
-        <Project Name="radius.csd" Type="Node" />
       </RootFolder>
     </Group>
   </SolutionFolder>

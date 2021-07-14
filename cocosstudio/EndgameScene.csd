@@ -6,19 +6,19 @@
       <ObjectData Name="Layer" Tag="507" ctype="GameLayerObjectData">
         <Size X="800.0000" Y="1200.0000" />
         <Children>
-          <AbstractNodeData Name="background" ActionTag="891996314" Tag="51" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" TouchEnable="True" ClipAble="False" BackColorAlpha="101" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="background" ActionTag="891996314" Tag="51" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" TouchEnable="True" ClipAble="False" BackColorAlpha="18" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="800.0000" Y="1200.0000" />
             <Children>
-              <AbstractNodeData Name="result" ActionTag="-727104009" Tag="34" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="400.0000" RightMargin="400.0000" TopMargin="552.0001" BottomMargin="647.9999" ctype="SingleNodeObjectData">
+              <AbstractNodeData Name="result" ActionTag="-727104009" Tag="34" IconVisible="True" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="400.0000" RightMargin="400.0000" TopMargin="552.0000" BottomMargin="648.0000" ctype="SingleNodeObjectData">
                 <Size X="0.0000" Y="0.0000" />
                 <AnchorPoint />
-                <Position X="400.0000" Y="647.9999" />
+                <Position X="400.0000" Y="648.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5400" />
                 <PreSize X="0.0000" Y="0.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="info" ActionTag="1876508500" Tag="52" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" ctype="PanelObjectData">
+              <AbstractNodeData Name="info" ActionTag="1876508500" Tag="52" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="800.0000" Y="1200.0000" />
                 <Children>
                   <AbstractNodeData Name="sword" ActionTag="279373985" Tag="512" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="350.5000" RightMargin="350.5000" TopMargin="370.0000" BottomMargin="730.0000" LeftEage="32" RightEage="32" TopEage="33" BottomEage="33" Scale9OriginX="32" Scale9OriginY="33" Scale9Width="35" Scale9Height="34" ctype="ImageViewObjectData">
@@ -177,10 +177,10 @@
                     <PreSize X="0.2525" Y="0.0108" />
                     <FileData Type="Normal" Path="art/battle/battle_result/battle_result_line_win.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="result_line_right" ActionTag="144329910" Tag="518" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="538.9999" RightMargin="59.0001" TopMargin="569.5000" BottomMargin="617.5000" FlipX="True" LeftEage="79" RightEage="79" TopEage="4" BottomEage="4" Scale9OriginX="79" Scale9OriginY="4" Scale9Width="84" Scale9Height="5" ctype="ImageViewObjectData">
+                  <AbstractNodeData Name="result_line_right" ActionTag="144329910" Tag="518" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentWidthEnabled="True" LeftMargin="539.0000" RightMargin="59.0000" TopMargin="569.5000" BottomMargin="617.5000" FlipX="True" LeftEage="79" RightEage="79" TopEage="4" BottomEage="4" Scale9OriginX="79" Scale9OriginY="4" Scale9Width="84" Scale9Height="5" ctype="ImageViewObjectData">
                     <Size X="202.0000" Y="13.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="639.9999" Y="624.0000" />
+                    <Position X="640.0000" Y="624.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
                     <PrePosition X="0.8000" Y="0.5200" />
@@ -218,11 +218,11 @@
                   <AbstractNodeData Name="reward_background" ActionTag="1682020752" Tag="552" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="200.0000" RightMargin="200.0000" TopMargin="615.0000" BottomMargin="495.0000" LeftEage="141" RightEage="141" TopEage="33" BottomEage="33" Scale9OriginX="141" Scale9OriginY="33" Scale9Width="146" Scale9Height="34" ctype="ImageViewObjectData">
                     <Size X="400.0000" Y="90.0000" />
                     <Children>
-                      <AbstractNodeData Name="reward_box" ActionTag="1323794010" Tag="553" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="4.0001" RightMargin="4.0001" TopMargin="13.5000" BottomMargin="13.5000" LeftEage="110" RightEage="110" TopEage="18" BottomEage="18" Scale9OriginX="110" Scale9OriginY="18" Scale9Width="114" Scale9Height="19" ctype="ImageViewObjectData">
-                        <Size X="391.9998" Y="63.0000" />
+                      <AbstractNodeData Name="reward_box" ActionTag="1323794010" Tag="553" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="4.0000" RightMargin="4.0000" TopMargin="13.5000" BottomMargin="13.5000" LeftEage="110" RightEage="110" TopEage="18" BottomEage="18" Scale9OriginX="110" Scale9OriginY="18" Scale9Width="114" Scale9Height="19" ctype="ImageViewObjectData">
+                        <Size X="392.0000" Y="63.0000" />
                         <Children>
-                          <AbstractNodeData Name="icon_treasure" ActionTag="-135176280" Tag="554" RotationSkewX="2.0000" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="54.8800" RightMargin="250.8799" TopMargin="-7.2450" BottomMargin="-7.2450" FlipX="True" LeftEage="72" RightEage="72" TopEage="66" BottomEage="66" Scale9OriginX="72" Scale9OriginY="66" Scale9Width="76" Scale9Height="69" ctype="ImageViewObjectData">
-                            <Size X="86.2399" Y="77.4900" />
+                          <AbstractNodeData Name="icon_treasure" ActionTag="-135176280" Tag="554" RotationSkewX="2.0000" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="54.8800" RightMargin="250.8801" TopMargin="-7.2450" BottomMargin="-7.2450" FlipX="True" LeftEage="72" RightEage="72" TopEage="66" BottomEage="66" Scale9OriginX="72" Scale9OriginY="66" Scale9Width="76" Scale9Height="69" ctype="ImageViewObjectData">
+                            <Size X="86.2400" Y="77.4900" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="97.9999" Y="31.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -231,20 +231,20 @@
                             <PreSize X="0.2200" Y="1.2300" />
                             <FileData Type="Normal" Path="art/common/common_treasure.png" Plist="" />
                           </AbstractNodeData>
-                          <AbstractNodeData Name="icon_trophy" ActionTag="708966041" Tag="555" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="223.4398" RightMargin="121.5199" TopMargin="9.4500" BottomMargin="9.4500" LeftEage="35" RightEage="35" TopEage="34" BottomEage="34" Scale9OriginX="35" Scale9OriginY="34" Scale9Width="38" Scale9Height="37" ctype="ImageViewObjectData">
+                          <AbstractNodeData Name="icon_trophy" ActionTag="708966041" Tag="555" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" PercentWidthEnable="True" PercentHeightEnable="True" PercentWidthEnabled="True" PercentHeightEnabled="True" LeftMargin="223.4399" RightMargin="121.5201" TopMargin="9.4500" BottomMargin="9.4500" LeftEage="35" RightEage="35" TopEage="34" BottomEage="34" Scale9OriginX="35" Scale9OriginY="34" Scale9Width="38" Scale9Height="37" ctype="ImageViewObjectData">
                             <Size X="47.0400" Y="44.1000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="246.9598" Y="31.5000" />
+                            <Position X="246.9599" Y="31.5000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.6300" Y="0.5000" />
                             <PreSize X="0.1200" Y="0.7000" />
                             <FileData Type="Normal" Path="art/common/common_icon_trophy.png" Plist="" />
                           </AbstractNodeData>
-                          <AbstractNodeData Name="trophy_label" ActionTag="-666508151" Tag="556" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="285.1799" RightMargin="57.8198" TopMargin="14.2200" BottomMargin="21.7800" FontSize="20" LabelText="+45" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                          <AbstractNodeData Name="trophy_label" ActionTag="-666508151" Tag="556" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="285.1798" RightMargin="57.8202" TopMargin="14.2200" BottomMargin="21.7800" FontSize="20" LabelText="+45" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                             <Size X="49.0000" Y="27.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="309.6799" Y="35.2800" />
+                            <Position X="309.6798" Y="35.2800" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.7900" Y="0.5600" />
@@ -290,7 +290,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="1.0000" Y="1.0000" />
-            <SingleColor A="255" R="150" G="200" B="255" />
+            <SingleColor A="255" R="0" G="105" B="255" />
             <FirstColor A="255" R="150" G="200" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
